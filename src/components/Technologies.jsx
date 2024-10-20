@@ -23,7 +23,7 @@ const iconVariants = (duration) => ({
 
 const Technologies = () => {
   return (
-    <section id="technologies">
+    <section id="technologies" className="container mx-auto py-16 tracking-tighter">
         <div className="border-neutral-800 pb-24">
             <motion.h2 
               whileInView={{ opacity: 1, y: 0 }}

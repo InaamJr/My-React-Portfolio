@@ -4,7 +4,7 @@ import { motion } from "framer-motion"
 
 const About = () => {
   return (
-    <section id="about">
+    <section id="about" className="container mx-auto py-16 tracking-tighter">
         <div className="border-neutral-900 pb-8">
             <h2 className="my-20 text-center text-4xl font-bold">
                 About

@@ -3,7 +3,7 @@ import { motion } from "framer-motion"
 
 const Projects = () => {
   return (
-    <section>
+    <section id="projects" className="container mx-auto py-16 tracking-tighter">
       <div className="border-neutral-900 pb-8">
         <motion.h2 
           whileInView={{ opacity: 1, y: 0}}

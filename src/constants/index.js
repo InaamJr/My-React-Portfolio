@@ -8,14 +8,14 @@ import user2 from "../assets/profile-pictures/user2.jpg";
 import user3 from "../assets/profile-pictures/user3.jpg";
 import user4 from "../assets/profile-pictures/user4.jpg";
 
-export const NAVIGATION_LINKS = [
-  { label: "Intro", href: "#intro" },
-  { label: "About", href: "#about" },
-  { label: "Technologies", href: "#technologies" },
-  { label: "Education", href: "#education" },
-  { label: "Projects", href: "#projects" },
-  { label: "Contact", href: "#contact" },
-];
+// export const NAVIGATION_LINKS = [
+//   { label: "Intro", href: "#intro" },
+//   { label: "About", href: "#about" },
+//   { label: "Technologies", href: "#technologies" },
+//   { label: "Education", href: "#education" },
+//   { label: "Projects", href: "#projects" },
+//   { label: "Contact", href: "#contact" },
+// ];
 
 export const HERO_CONTENT = `I am an ambitious undergraduate software engineer with one year of hands-on experience gained through freelancing and developing minor projects, including websites and web applications. As a full-stack developer, I work primarily with technologies such as Python, HTML, CSS, Tailwind CSS, JavaScript, React, Java, and C#. My goal is to leverage my expertise to create innovative solutions that drive business growth and deliver exceptional user experiences.`;
 
